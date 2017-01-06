@@ -17,6 +17,7 @@
 - [Meteor](https://github.com/niceilm/study-meteor)
 - [MongoDB](https://github.com/niceilm/study-mongodb)
 - [Firebase](https://github.com/niceilm/study-firebase)
+- [ElasticSearch](https://github.com/niceilm/study-elasticsearch)
 
 ## Mobile
 - [NativeScript](https://github.com/niceilm/study-nativescript)
@@ -28,3 +29,4 @@
 - [Webpack](https://github.com/niceilm/study-webpack)
 - [Ansible](https://github.com/niceilm/study-ansible)
 - [Docker](https://github.com/niceilm/study-docker)
+- [Vagrant](https://github.com/niceilm/study-vagrant)
