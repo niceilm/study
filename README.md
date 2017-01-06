@@ -1,17 +1,30 @@
 # study
 
-- [Angular](https://github.com/niceilm/study-angular)
+## Language
 - [TypeScript](https://github.com/niceilm/study-typescript)
-- [RxJS](https://github.com/niceilm/study-rxjs)
-- [Go](https://github.com/niceilm/study-go)
 - [Python](https://github.com/niceilm/study-python)
-- [Electron](https://github.com/niceilm/study-electron)
-- [MongoDB](https://github.com/niceilm/study-mongodb)
-- [Meteor](https://github.com/niceilm/study-meteor)
-- [Ansible](https://github.com/niceilm/study-ansible)
-- [NativeScript](https://github.com/niceilm/study-nativescript)
-- [Docker](https://github.com/niceilm/study-docker)
+- [Go](https://github.com/niceilm/study-go)
+
+## Programming Skill
+- [RxJS](https://github.com/niceilm/study-rxjs)
+
+## Frontend
+- [Angular](https://github.com/niceilm/study-angular)
 - [Sass](https://github.com/niceilm/study-sass)
 - [D3.js](https://github.com/niceilm/study-d3js)
-- [Webpack](https://github.com/niceilm/study-webpack)
+
+## Backend
+- [Meteor](https://github.com/niceilm/study-meteor)
+- [MongoDB](https://github.com/niceilm/study-mongodb)
 - [Firebase](https://github.com/niceilm/study-firebase)
+
+## Mobile
+- [NativeScript](https://github.com/niceilm/study-nativescript)
+
+## Desktop
+- [Electron](https://github.com/niceilm/study-electron)
+
+## DevOps
+- [Webpack](https://github.com/niceilm/study-webpack)
+- [Ansible](https://github.com/niceilm/study-ansible)
+- [Docker](https://github.com/niceilm/study-docker)
